@@ -1,4 +1,4 @@
-## Olá, me chamo Manoel, seja bem-vindo ao meu perfil! 👋
+## ~ Olá, me chamo Manoel, seja bem-vindo ao meu perfil! 👋
 
 - 📚 Cursando o 2º semestre de <b>Ciências da computação.</b>
 - 🖥️ Técnico de Desenvolvimento de sistemas.
