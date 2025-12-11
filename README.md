@@ -3,9 +3,6 @@
 - 📚 Cursando o 2º semestre de <b>Ciências da computação.</b>
 - 🖥️ Técnico em Desenvolvimento de sistemas.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoel-c78&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-c78&layout=compact&theme=dracula)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Manoel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Manoel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
