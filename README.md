@@ -1,7 +1,7 @@
 ## ~ Olá, me chamo Manoel, seja bem-vindo ao meu perfil! 👋
 
 - 📚 Cursando o 2º semestre de <b>Ciências da computação.</b>
-- 🖥️ Técnico de Desenvolvimento de sistemas.
+- 🖥️ Técnico em Desenvolvimento de sistemas.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manoel-c78&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manoel-c78&layout=compact&theme=dracula)
