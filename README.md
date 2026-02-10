@@ -1,6 +1,6 @@
 ## ~ Olá, me chamo Manoel, seja bem-vindo ao meu perfil! 👋
 
-- 📚 Cursando o 2º semestre de <b>Ciências da computação.</b>
+- 📚 Cursando o 3º semestre de <b>Ciências da computação.</b>
 - 🖥️ Técnico em Desenvolvimento de sistemas.
 
 <div style="display: inline_block"><br>
