@@ -3,13 +3,10 @@
 - 📚 Cursando o 3º semestre de <b>Ciências da computação.</b>
 - 🖥️ Técnico em Desenvolvimento de sistemas.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Manoel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Manoel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Manoel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Manoel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Manoel-MYSQLI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+<br>
+<a href="https://skillicons.dev">
+  <img alt="Manoel-HTML" src="https://skillicons.dev/icons?i=html,css,java,python,mysql,tensorflow">
+</a>
 
 ##
 
