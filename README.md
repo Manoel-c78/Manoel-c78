@@ -1,7 +1,12 @@
 ## ~ Olá, me chamo Manoel, seja bem-vindo ao meu perfil! 👋
 
+- 🛠️ Desenvolvedor de software backend
+
+<h2>🎓 Formações/cursos </h2>
+
 - 📚 Cursando o 3º semestre de <b>Ciências da computação.</b>
 - 🖥️ Técnico em Desenvolvimento de sistemas.
+- 👨‍💻 Microsoft Office Specialist (Excel, PowerPoint e Word)
 
 <br>
 <a href="https://skillicons.dev">
