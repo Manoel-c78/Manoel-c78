@@ -1,20 +1,32 @@
 ## ~ Olá, me chamo Manoel, seja bem-vindo ao meu perfil! 👋
 
 - 🛠️ Desenvolvedor de software backend
+- 👨‍💻 Aprofundando conhecimentos e desenvolvendo projetos para atuação como Engenheiro de Software
 
 <h2>🎓 Formações/cursos </h2>
 
 - 📚 Cursando o 3º semestre de <b>Ciências da computação.</b>
 - 🖥️ Técnico em Desenvolvimento de sistemas.
-- 👨‍💻 Microsoft Office Specialist (Excel, PowerPoint e Word)
+- 📚 Microsoft Office Specialist (Excel, PowerPoint e Word)
 
+<h2>👾 Linguagens Backend </h2>
+
+<a href="https://skillicons.dev">
+  <img alt="Manoel-HTML" src="https://skillicons.dev/icons?i=java,python,php">
+</a>
 <br>
+
+<h2>🎨 Front-end </h2>
 <a href="https://skillicons.dev">
   <img alt="Manoel-HTML" src="https://skillicons.dev/icons?i=html,css,java,python,mysql,tensorflow">
 </a>
 
-##
+<h2>💻 Tecnologias </h2>
+<a href="https://skillicons.dev">
+  <img alt="Manoel-HTML" src="https://skillicons.dev/icons?i=mysql,tensorflow">
+</a>
 
+<h2>📧 Contatos </h2>
 <div> 
   <a href = "mailto:manoelsantoslc1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manoel-carlos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
