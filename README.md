@@ -5,7 +5,7 @@
 
 <h2>🎓 Formações/cursos </h2>
 
-- 📚 Cursando o 3º semestre de <b>Ciências da computação.</b>
+- 📚 Cursando o 4º semestre de <b>Ciências da computação.</b>
 - 🖥️ Técnico em Desenvolvimento de sistemas.
 - 📚 Microsoft Office Specialist (Excel, PowerPoint e Word)
 
